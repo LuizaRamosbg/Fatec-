@@ -70,7 +70,7 @@ for(i = 0; i < musica.length; i++){
     console.log("ano de lançamento: ", musica[i].ano_lançamento);
     console.log("midia disponivel: ", musica[i].midia_disponivel);
 } 
-*/
+
 //Exercício Animais (obs: Professor, acho que não entendi esse exercício direito)
 let animais = ["Gato","Baleia","Cachorro","Avestruz","Codorna","Ema","Jacaré", "Crocodilo", "Tartaruga", "Antarctossauro", "Titanossauro","Amazonssauro"];
 

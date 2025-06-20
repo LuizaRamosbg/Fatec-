@@ -17,7 +17,7 @@ function geraMoedas(){
     const vetMoeda = [];
 
     for(i=0 ; i<numMoedas ; i++){
-        vetMoeda.push(Math.random()< 0.5 , 'cara' , 'coroa');
+        vetMoeda.push(Math.random()< 0.5 ? 'cara' : 'coroa');
         }
 
     return vetMoeda;    
